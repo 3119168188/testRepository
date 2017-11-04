@@ -1,0 +1,169 @@
+2				-----------
+layout 布局
+drawable 可拉的	
+assets	资产
+findViewByid	发现视图id
+OnclickListener	单击鼠标倾听
+3		
+LinearLayout 线性布局		
+RelativeLayout	相对布局			
+FrameLayout	框架布局				
+AbsoluteLayout	绝对布局			
+TableLayout	表格布局			
+horizontal	水平的			
+vertical	垂直的			
+layout_weight	布局重量				
+alignParentTop	排列父亲的头部			
+centerHorizontal 进入水平的	
+alignParentLeft	排列父亲的左边
+centerVertical	进入垂直的
+centerInParent	进入父亲
+alignParentBottom 排列父亲的底部			
+above		在上面
+below		在下面
+toLeftOf	向左边的
+toRightOf	向右边的			
+alignRight	排列右边
+alignBottom	排列底部
+alignLeft       排列左边
+alignTop	排列头部		
+marginTop	边缘头部			
+marginBottom	边缘底部			
+marginRight	边缘右边	
+marginLeft	边缘左边	
+4
+layout_gravity	布局重力				
+5
+adapter		适配器
+BaseAdapter	基础适配器			
+numColumns	数字列		
+columnWidth     列宽	
+horizontalSpacing 水平间隔	
+verticalSpacing	 垂直间隔	----------	
+6				
+TimePicker	时间选择
+setIs24HourView	 设置24小时的视图				
+setOnTimeChangedListener	设置时间改变的倾听		
+calendarViewShown		日历视图显示	
+OnDateChangedListener		日期改变的倾听	
+popupwindow			弹出窗口
+dialog				会话
+
+7
+setContentView
+showAsDropDown
+makeText
+Builder
+setSingleChoiceItems
+dismiss
+		--------
+
+setPositiveButton
+setMessage
+setNegativeButton
+DatePickerDialog
+setSingleChoiceItems
+8
+Environment 环境
+getRootDirectory 根文件夹 
+getDataDirectory 数据文件夹
+getExternalStorageDirectory
+getExternalStorageState
+WRITE_EXTERNAL_STORAGE 
+MOUNT_UNMOUNT_FILESYSTEMS
+READ_EXTERNAL_STORAGE
+11
+sqlite
+SqliteOpenHelper
+13
+ContentProvider				
+UriMatcher
+Cursor			
+authorities
+exported
+Contarts			
+SharedPreferences sp;				
+Editor		
+contacts
+======================
+14
+stroke   敲击
+corners  角 ，街角
+gradient  变化率
+padding		步行，放轻脚步走;
+layer-list    层清单
+rectangle   长方形，矩形;
+oval  . 椭圆形的
+line   线
+ring  戒指，指环; 
+
+
+15
+Widget 装饰品
+Indicator  指示器
+Content 内容
+tabhost 计算机
+TabSpec  说明书
+
+项目？？？？
+
+
+-------第二阶段
+21
+instantiateItem  示例项目
+isViewFromObject 是视图来源的目标
+PagerAdapter  页适配器
+ViewPager  视图页
+
+destroyItem      摧毁项目
+getSupportFragmentManager 获得帮助碎片的管理者
+FragmentManager 碎片管理
+FragmentTransaction 碎片事务
+Fragment	碎片
+FragmentActivity   碎片活动
+
+
+23
+
+ExpandableListAdapter
+ExpandableListView
+Children
+Group
+Position
+isExpanded
+isChildSelectable
+hasStableIds
+
+
+24
+fromAlpha
+toAlpha
+duration								fillAfter					
+fillBefore
+repeatCount								repeatMode									AlphaAnimation						
+fromXScale
+toXScale
+fromYScale
+toYScale
+duration
+pivotX
+pivotY
+repeatCount
+repeatMode
+ScaleAnimation
+RELATIVE_TO_SELF
+infinite
+restar
+reverse
+fromDegrees
+toDegrees
+RotateAnimation
+TranslateAnimation
+fromXDelta
+toXDelta
+fromYDelta
+toYDelta
+onTouchEvent
+MotionEvent
+
+
